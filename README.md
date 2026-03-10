@@ -7,6 +7,9 @@
 ```
 leetcode_for_job/
 ├── Array/                  # 数组专题
+│   ├── 48. Rotate Image.cpp
+│   ├── 54. Spiral Matrix.cpp
+│   ├── 59. Spiral Matrix II.cpp
 │   ├── 303. Range Sum Query - Immutable.cpp
 │   ├── 304. Range Sum Query 2D - Immutable.cpp
 │   ├── 370. Range Addition.cpp
@@ -19,7 +22,7 @@ leetcode_for_job/
 
 | 专题 | 题目数 | 核心技巧 |
 |------|--------|----------|
-| Array | 5 | 差分数组、前缀和 |
+| Array | 8 | 差分数组、前缀和、螺旋矩阵、矩阵旋转 |
 
 ## 本地调试
 
